@@ -190,7 +190,7 @@ Maven Analytics MoMA Dataset
 
 # 📷 8. Dashboard Preview
 
-(Add dashboard screenshots here)
+https://github.com/shristy-shahi/Artworks/blob/main/artists.png
 
 # 🚀 9. How to Use
 
